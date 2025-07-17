@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/language-speak-practice-2228b538/ai_practice_frontend/.dart_tool/flutter_build/4d5ada45c81f4394f71afbdef670663c/native_assets.json: 
