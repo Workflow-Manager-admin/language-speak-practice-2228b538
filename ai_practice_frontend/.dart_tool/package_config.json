@@ -327,15 +327,9 @@
     },
     {
       "name": "speech_to_text",
-      "rootUri": "file:///home/kavia/.pub-cache/hosted/pub.dev/speech_to_text-6.6.0",
+      "rootUri": "file:///home/kavia/.pub-cache/hosted/pub.dev/speech_to_text-7.2.0",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
-    },
-    {
-      "name": "speech_to_text_macos",
-      "rootUri": "file:///home/kavia/.pub-cache/hosted/pub.dev/speech_to_text_macos-1.1.0",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.3"
     },
     {
       "name": "speech_to_text_platform_interface",
@@ -470,7 +464,7 @@
       "languageVersion": "3.7"
     }
   ],
-  "generated": "2025-07-17T17:26:35.861936Z",
+  "generated": "2025-07-17T17:35:05.705091Z",
   "generator": "pub",
   "generatorVersion": "3.7.0",
   "flutterRoot": "file:///opt/flutter",

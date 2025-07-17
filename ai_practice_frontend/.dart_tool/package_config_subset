@@ -199,13 +199,9 @@ source_span
 file:///home/kavia/.pub-cache/hosted/pub.dev/source_span-1.10.1/
 file:///home/kavia/.pub-cache/hosted/pub.dev/source_span-1.10.1/lib/
 speech_to_text
-3.0
-file:///home/kavia/.pub-cache/hosted/pub.dev/speech_to_text-6.6.0/
-file:///home/kavia/.pub-cache/hosted/pub.dev/speech_to_text-6.6.0/lib/
-speech_to_text_macos
-3.0
-file:///home/kavia/.pub-cache/hosted/pub.dev/speech_to_text_macos-1.1.0/
-file:///home/kavia/.pub-cache/hosted/pub.dev/speech_to_text_macos-1.1.0/lib/
+3.3
+file:///home/kavia/.pub-cache/hosted/pub.dev/speech_to_text-7.2.0/
+file:///home/kavia/.pub-cache/hosted/pub.dev/speech_to_text-7.2.0/lib/
 speech_to_text_platform_interface
 3.0
 file:///home/kavia/.pub-cache/hosted/pub.dev/speech_to_text_platform_interface-2.3.0/
